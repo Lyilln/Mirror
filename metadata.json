@@ -1,0 +1,6 @@
+{
+  "name": "凝霧雕花鏡 · 3D Ornate Fogging Mirror",
+  "description": "互動式 3D 華麗雕花牆上鏡，具備即時鏡面反射、極速循環起霧、音樂歌詞偵測與霧氣玻璃手寫歌詞特效。",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
